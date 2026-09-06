@@ -1,0 +1,5 @@
+cd ..
+cd venv
+source practise/scripts/activate
+cd ..
+cd "Code practise"

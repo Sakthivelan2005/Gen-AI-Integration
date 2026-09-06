@@ -1,1 +1,46 @@
 Gen AI Notes
+
+Data types - Define Type of data:
+
+Number: int, float, and complex (immutable)
+text: string (immutable)
+Boolean: bool  (immutable)
+list : mutable
+dictionary: mutable
+set: mutable
+tuple: immutable
+NoneType: immutable 
+
+
+Function - Block of code, It is used to perform a specific task. :
+
+Pre-defined -> filter, map, reduce (returns single value by traversing through  )
+User defined -> Function definition and Function call
+anonymous - lambda
+
+
+OOPS:
+class and object
+polymorphism  
+
+
+NumPy - Numerical Python:
+-> It is based on n-different dimensions of an array.
+-> It is used to generate different dimensions of data.
+-> maximum 32-dimensions we can create
+-> used for image processing
+
+AI,ML,Chatbots
+
+
+Pandas:
+
+DataFrame - 2 Dimension
+Series - 1 Dimension
+
+df.loc (negative index is not possible)
+
+df.iloc() index
+
+
+  
