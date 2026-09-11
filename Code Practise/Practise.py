@@ -70,3 +70,16 @@ def palindrome(txt):
     right -= 1
   return True
 print(palindrome("Race car"))
+
+
+# Two sum Problem
+def two_sum(l, target):
+  seen = []
+  for i in l:
+    complement = target - i
+    if complement in seen:
+      return [complement, i]
+    seen.append(i)
+  return []
+
+print("Two Sum: ", two_sum([1,2,3,4], 5))
